@@ -364,7 +364,8 @@
 /ru/docs/Mozilla/Developer_guide/Source_Code	/ru/docs/orphaned/Mozilla/Developer_guide/Source_Code
 /ru/docs/Mozilla/Developer_guide/mozilla-central	/ru/docs/orphaned/Mozilla/Developer_guide/mozilla-central
 /ru/docs/Mozilla/Developer_guide/Исходный_код	/ru/docs/orphaned/Mozilla/Developer_guide/Source_Code
-/ru/docs/Plugins/План	/ru/docs/Plugins/Roadmap
+/ru/docs/Plugins/Roadmap	/ru/docs/Glossary/Plugin
+/ru/docs/Plugins/План	/ru/docs/Glossary/Plugin
 /ru/docs/QA/Kak_pomoch_testirovat	/ru/docs/QA/Как_помочь_тестировать
 /ru/docs/Quirks_Mode_and_Standards_Mode	/ru/docs/Web/HTML/Quirks_Mode_and_Standards_Mode
 /ru/docs/SVG_In_HTML_Introduction	/ru/docs/Web/SVG/Tutorial/SVG_In_HTML_Introduction
