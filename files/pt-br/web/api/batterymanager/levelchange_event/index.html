@@ -1,23 +1,24 @@
 ---
-title: BatteryManager.onchargingchange
-slug: Web/API/BatteryManager/onchargingchange
+title: BatteryManager.onlevelchange
+slug: Web/API/BatteryManager/levelchange_event
 tags:
   - API
   - Battery API
   - Event Handler
   - Propriedade
   - Referencia
-translation_of: Web/API/BatteryManager/onchargingchange
+translation_of: Web/API/BatteryManager/onlevelchange
+original_slug: Web/API/BatteryManager/onlevelchange
 ---
 <p>{{APIRef("Battery API")}}</p>
 
-<p>Especifica um <em>event listener</em> para receber eventos {{event("chargingchange")}}. Esses eventos ocorrem quando o estado {{domxref("BatteryManager.charging", "charging")}} (carregando) da bateria é atualizado.</p>
+<p>Especifica um <em>event listener</em> para receber eventos {{event("levelchange")}}. Esses eventos ocorrem quando o {{domxref("BatteryManager.level","level")}} (nível) da bateria é atualizado.</p>
 
 <h2 id="Syntax" name="Syntax">Sintaxe</h2>
 
-<pre class="syntaxbox">navigator.battery.onchargingchange = funcRef</pre>
+<pre class="syntaxbox">navigator.battery.onlevelchange = funcRef</pre>
 
-<p>Onde <code><em>funcRef</em></code> é uma função para ser chamada quando o evento {{event("chargingchange")}} ocorre.</p>
+<p>Onde <code><em>funcRef</em></code> é uma função para ser chamada quando o evento {{event("levelchange")}} ocorre.</p>
 
 <h2 id="Especificações">Especificações</h2>
 
