@@ -3881,6 +3881,7 @@
 /fr/docs/Web/API/PasswordCredential/idName	/fr/docs/conflicting/Web/API/PasswordCredential_cbf7b306e83a3f58ff06bccf89637c12
 /fr/docs/Web/API/PasswordCredential/passwordName	/fr/docs/conflicting/Web/API/PasswordCredential_bc57d5dfa87242b4fb83497887124f41
 /fr/docs/Web/API/Performance.now()	/fr/docs/Web/API/Performance/now
+/fr/docs/Web/API/Performance/onresourcetimingbufferfull	/fr/docs/conflicting/Web/API/Performance/resourcetimingbufferfull_event
 /fr/docs/Web/API/Pointer_events/gestes_pincer_zoom	/fr/docs/Web/API/Pointer_events/Pinch_zoom_gestures
 /fr/docs/Web/API/PositionOptions	/fr/docs/conflicting/Web/API/Geolocation/getCurrentPosition_5852407122355d2ab39863042583c266
 /fr/docs/Web/API/PositionOptions/enableHighAccuracy	/fr/docs/conflicting/Web/API/Geolocation/getCurrentPosition
